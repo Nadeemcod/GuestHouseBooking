@@ -1,0 +1,6 @@
+@GuestHouseBackEnd_HostAddress = http://localhost:5155
+
+GET {{GuestHouseBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
